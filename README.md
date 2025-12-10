@@ -80,7 +80,7 @@ I chose each piece deliberately. FastAPI because it's fast and the auto-generate
 
 **1. Clone it:**
 ```bash
-git clone https://github.com/KhalidAbdelaty/SQL-PlAYGROUND.git
+git clone https://github.com/KhalidAbdelaty/SQL-PLAYGROUND.git
 cd SQL-PlAYGROUND
 ```
 
