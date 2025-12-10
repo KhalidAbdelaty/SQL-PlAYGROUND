@@ -202,7 +202,7 @@ Found a bug? Have an idea? Open an issue or submit a PR. I read everything.
 
 I'm **Khalid Abdelaty**, a Data Engineer who likes building tools that solve real problems. This project came from my own frustration with not having a safe place to experiment with SQL.
 
-[LinkedIn](https://www.linkedin.com/in/khalidabdelaty/) · [GitHub](https://github.com/KhalidAbdelaty)
+[LinkedIn](https://www.linkedin.com/in/khalidabdelaty/)
 
 ---
 
